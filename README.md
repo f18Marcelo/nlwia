@@ -19,7 +19,7 @@ Programa de sub rotina que realiza resumos de vídeos em texto utilizando IA int
 <br>
 
 <p align="center">
-  <img alt="Copa da Página" src=".github/Capa.png" width="100%">
+  <img alt="Capa da Página" src=".github/capa.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
