@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Back end
 - Front end
 - Git e Github
-- Inteligencia Artificial
+- Inteligencia Artificia
 
 <br />
 
